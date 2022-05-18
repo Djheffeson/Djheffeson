@@ -1,6 +1,6 @@
-### Sou o Djheffeson!
+### Hello, my name is Djheffeson!
 
-Iai zap
+ - 😐 That's it I guess.
 
 <!--
 **Djheffeson/Djheffeson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
